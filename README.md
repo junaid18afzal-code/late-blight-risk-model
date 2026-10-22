@@ -16,7 +16,7 @@ Predicts when weather favours potato late blight (*Phytophthora infestans*) in G
 
 ## Key findings
 - Hutton Criteria flagged 35–99 of 153 season days per year, likely because the gridded data (~50 km, coastal) shows frequent high humidity.
-- Against five reported seasons, Hutton and Smith counts each agreed with 4/5 and both missed 2012; season rainfall agreed with 5/5, consistent with rain-splash dispersal and leaf wetness.
+- Against six seasons with published blight reports (2007, 2012, 2018, 2021, 2022, 2023), Hutton counts agreed with 5/6, Smith 4/6 and season rainfall 6/6. Both rules missed 2012, a severe year, suggesting one ~50 km grid point misses regional risk.
 - Outbreak-level and ML validation were not possible because no dated disease records were available.
 
 ![Seasonal counts](outputs/seasonal_counts.png)
