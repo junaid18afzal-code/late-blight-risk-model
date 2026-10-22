@@ -3,7 +3,7 @@
 Predicts when weather favours potato late blight (*Phytophthora infestans*) in Great Britain, using NASA POWER hourly weather data and the published **Smith Period** and **Hutton Criteria** rules.
 
 **Author:** Muhammad Junaid Afzal
-
+📄 **[Read the full project report (PDF)](project_report.pdf)**
 ![Risk calendar](outputs/risk_calendar.png)
 
 ## What it does
